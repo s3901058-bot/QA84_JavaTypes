@@ -23,11 +23,42 @@ public class MainJavaTypes {
         System.out.println(g);
         System.out.println(x);
         System.out.println(s);
-
+/*
+String — это ссылочный тип.
+Переменная str хранит ссылку на объект "Hello".
+*/
         String str = "Hello";
+/*
+str1 получает ту же ссылку, что и str.
+Теперь str и str1 указывают на один и тот же объект "Hello".
+*/
         String str1 = str;
+ /*
+str2 получает ту же ссылку, что и str1.
+Теперь str, str1 и str2 указывают на "Hello".
+ */
         String str2 = str1;
-        System.out.println(str2);
 
+        System.out.println(str); // Hello
+
+ /*
+String в Java неизменяемый.
+Здесь "Hello" не меняется.
+Переменная str просто начинает ссылаться на новый объект "Bay".
+*/
+        str = "Bay";
+ /*
+str2 теперь тоже начинает ссылаться туда же, куда str.
+То есть str2 теперь указывает на "Bay".
+  */
+        str2 = str;
+
+        System.out.println(str2); // Bay
+
+ /*
+ str1 больше ни на что не ссылается.
+ null = отсутствие ссылки на объект.
+ */
+        str1 = null;
     }
 }
