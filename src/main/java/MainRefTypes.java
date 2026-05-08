@@ -12,7 +12,6 @@ public class MainRefTypes {
             System.out.println("equals ==");
         else
             System.out.println("not equals ==");
-        String copy = str;
 
     }
 }
