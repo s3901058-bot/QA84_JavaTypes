@@ -2,14 +2,14 @@ public class MainJavaTypes {
     public static void main(String[] args) {
 
         // primitive types
-        int a = 5; //обычное целое число
-        byte b = 127; //маленькое целое число
-        short c = 34; //целое число
-        char r = 'A'; //один символ
-        long m = 2149000000L; //большое целое число
-        double t = 34.8; //дробное число, точнее чем float
-        float g = 3.8f; //дробное число
-        boolean x = true; //правда/ложь
+        int a = 5; //целое число
+        byte b = 127; //маленькое целое число от -128 до 127
+        short c = 34; //целое число от -32768 до 32767
+        char r = 'A';// один символ в одинарных кавычках
+        long m = 2149000000L; //большое целое число в конце ставим L
+        double t = 34.8; // дробное число по умолчанию double
+        float g = 3.8f; //дробное число в конце ставим f
+        boolean x = true; //логическое значение true или false
 
         // reference type
         String s = "Hello Java";
