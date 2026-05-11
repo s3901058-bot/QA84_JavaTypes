@@ -8,10 +8,15 @@ public class MainRefTypes {
         String str = "hello";// обьект из String pool то есть создаем переменную str и присваиваем ей текст hello
         String str1 = new String("hello");// Создаём новый отдельный объект String в памяти с текстом "hello"
         String str2 = "hello"; // Создаеться тот же обьект из String pool
-        if (str == str1) // Если str == str1 то будет False так как обьекты разные Если заменить на str2 будет true так как обьекты одинаковые
+        if (str == str2) // Если str == str1 то будет False так как обьекты разные Если заменить на str2 будет true так как обьекты одинаковые
             System.out.println("equals =="); // это результат на True
         else // если с условия если стр равна стр1  тогда выводиться этот результат
             System.out.println("not equals ==");// Это результат на False
+        if (str.equals(str1) == true)// равнивает с учетом регистра
+            System.out.println("str.equals(str1) true");
+        if (str.equalsIgnoreCase(str1)) //Игнорирует регистер
+            System.out.println("str.equalsFoldCase(str1)");
+
 
     }
 }

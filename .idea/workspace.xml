@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47dcb390-2c04-4da6-afd8-5e2417afbb4f" name="Changes" comment="add 1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainJavaTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainJavaTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainWrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MainJavaTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MainJavaTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MainRefTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MainRefTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainRefTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainRefTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +68,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3DO8xZS0Yz9pZiNvRDZeaVDdqCT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,6 +79,7 @@
   "keyToString": {
     "Application.MainJavaTypes.executor": "Run",
     "Application.MainRefTypes.executor": "Run",
+    "Application.MainWrapperClasses.executor": "Run",
     "Gradle.JavaTypes [:MainJavaTypes.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -89,7 +97,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MainRefTypes">
+  <component name="RunManager" selected="Application.MainWrapperClasses">
     <configuration name="MainJavaTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainJavaTypes" />
       <module name="JavaTypes.main" />
@@ -104,8 +112,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainWrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainWrapperClasses" />
+      <module name="JavaTypes.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainWrapperClasses" />
         <item itemvalue="Application.MainRefTypes" />
         <item itemvalue="Application.MainJavaTypes" />
       </list>
@@ -124,7 +140,9 @@
       <workItem from="1778227829572" duration="82000" />
       <workItem from="1778227931113" duration="1815000" />
       <workItem from="1778229759557" duration="77000" />
-      <workItem from="1778229846073" duration="8127000" />
+      <workItem from="1778229846073" duration="8451000" />
+      <workItem from="1778246386080" duration="4851000" />
+      <workItem from="1778484896951" duration="7567000" />
     </task>
     <task id="LOCAL-00001" summary="add 1">
       <option name="closed" value="true" />
@@ -214,7 +232,31 @@
       <option name="project" value="LOCAL" />
       <updated>1778239425723</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add 1">
+      <option name="closed" value="true" />
+      <created>1778239648696</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1778239648696</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add 1">
+      <option name="closed" value="true" />
+      <created>1778239697267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778239697267</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add 1">
+      <option name="closed" value="true" />
+      <created>1778239910629</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778239910629</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
