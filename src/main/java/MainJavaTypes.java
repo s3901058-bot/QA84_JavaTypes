@@ -10,6 +10,19 @@ public class MainJavaTypes {
         double t = 34.8; // дробное число по умолчанию double
         float g = 3.8f; //дробное число в конце ставим f
         boolean x = true; //логическое значение true или false
+        /*
+byte    = 1 байт
+short   = 2 байта
+int     = 4 байта
+long    = 8 байт
+float   = 4 байта
+double  = 8 байт
+char    = 2 байта
+boolean = зависит от JVM, обычно условно считают 1 байт
+
+byte < short < int < long
+1      2       4     8 байт
+         */
 
         // reference type
         String s = "Hello Java";
