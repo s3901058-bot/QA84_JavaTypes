@@ -38,8 +38,8 @@ public class MainWrapperClasses {
         short s1 = 67;
         Short s2 = 45;
 
-        char c = 'U';
-        Character c1 = 'T1';
+        char c1 = 'U';
+        Character c2 = 'T';
 
 
 

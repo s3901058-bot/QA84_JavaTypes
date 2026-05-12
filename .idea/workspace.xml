@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47dcb390-2c04-4da6-afd8-5e2417afbb4f" name="Changes" comment="add 1" />
+    <list default="true" id="47dcb390-2c04-4da6-afd8-5e2417afbb4f" name="Changes" comment="add 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MainJavaTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MainJavaTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MainWrapperClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MainWrapperClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainWrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainWrapperClasses.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,29 +74,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainJavaTypes.executor": "Run",
-    "Application.MainRefTypes.executor": "Run",
-    "Application.MainWrapperClasses.executor": "Run",
-    "Gradle.JavaTypes [:MainJavaTypes.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainJavaTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainRefTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainWrapperClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaTypes [:MainJavaTypes.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MainWrapperClasses">
+}</component>
+  <component name="RunManager" selected="Application.MainJavaTypes">
     <configuration name="MainJavaTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainJavaTypes" />
       <module name="JavaTypes.main" />
@@ -115,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainJavaTypes" />
         <item itemvalue="Application.MainWrapperClasses" />
         <item itemvalue="Application.MainRefTypes" />
-        <item itemvalue="Application.MainJavaTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +141,9 @@
       <workItem from="1778229759557" duration="77000" />
       <workItem from="1778229846073" duration="8451000" />
       <workItem from="1778246386080" duration="4851000" />
-      <workItem from="1778484896951" duration="8269000" />
+      <workItem from="1778484896951" duration="9658000" />
+      <workItem from="1778537248649" duration="202000" />
+      <workItem from="1778583923432" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="add 1">
       <option name="closed" value="true" />
@@ -258,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778493997852</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add 1">
+      <option name="closed" value="true" />
+      <created>1778494863916</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1778494863916</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
