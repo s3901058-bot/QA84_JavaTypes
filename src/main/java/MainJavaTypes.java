@@ -11,7 +11,8 @@ public class MainJavaTypes {
         float g = 3.8f; //дробное число в конце ставим f
         boolean x = true; //логическое значение true или false
         /*
-byte    = 1 байт
+byte    = 1 байт = 8 бит
+−2°n−1 до 2n−°1−1
 short   = 2 байта
 int     = 4 байта
 long    = 8 байт
